@@ -1,4 +1,4 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Teko:wght@300;400;500&display=swap');
 
 :root {
   --primaryColor: #fff;
@@ -16,7 +16,7 @@ html {
 body {
   margin: 0;
   background:#b1b6ba;
-
+  font-family: Teko, sans-serif;
 }
 
 /* Navigation Menu */
