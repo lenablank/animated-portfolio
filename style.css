@@ -242,7 +242,7 @@ section#home a {
   text-decoration: none;
   font-size: 0.8rem;
   padding-bottom: 5px;
-  color: var(--primaryColor);
+  color: var(--navColor4);
   border-bottom: 1px solid var(--primaryColor);
 }
 
